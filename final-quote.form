@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "label": "Final Quote",
+      "type": "textfield",
+      "id": "Field_1btvrp9",
+      "key": "final_quote"
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_f849c10f-25c7-4fe9-9802-ba6861e744d0",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

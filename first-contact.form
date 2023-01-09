@@ -1,0 +1,75 @@
+{
+  "components": [
+    {
+      "text": "# Please tell us about your Projekt",
+      "type": "text",
+      "id": "Field_0vqbk0e"
+    },
+    {
+      "label": "Prename",
+      "type": "textfield",
+      "id": "Field_0xyldrx",
+      "key": "prename_field",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Lastname",
+      "type": "textfield",
+      "id": "Field_0e248c8",
+      "key": "lastname_field",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Company Name",
+      "type": "textfield",
+      "id": "Field_1nhtx4b",
+      "key": "company_name"
+    },
+    {
+      "label": "E-Mail",
+      "type": "textfield",
+      "id": "Field_0252k1v",
+      "key": "mail_field",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Projectname",
+      "type": "textfield",
+      "id": "Field_0sdjimd",
+      "key": "project_name",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Project Description",
+      "type": "textfield",
+      "id": "Field_17pkhvc",
+      "key": "project_field",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Datenschutzbestimmungen akzeptieren",
+      "type": "checkbox",
+      "id": "Field_0hi2338",
+      "key": "field_0wgaa9d"
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_d63f8f7b-db48-4929-b12b-04139552505e",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

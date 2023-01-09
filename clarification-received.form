@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "label": "Project Name",
+      "type": "textfield",
+      "id": "Field_0up56ym",
+      "key": "field_0lflvdv"
+    },
+    {
+      "label": "Company Name",
+      "type": "textfield",
+      "id": "Field_1pf5666",
+      "key": "field_1yo7744"
+    },
+    {
+      "label": "Clarify Points",
+      "type": "textfield",
+      "id": "Field_174jw4b",
+      "key": "field_1kvkgo0",
+      "description": "clarify_points"
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_bd1af47f-e648-4097-98d0-f4b86e491179",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

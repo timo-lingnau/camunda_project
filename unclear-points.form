@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Unclear Points",
+      "type": "textfield",
+      "id": "Field_0x875sh",
+      "key": "unclear_points",
+      "description": "Please specifiy all uncler points",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_214fc8dd-dd75-4af5-a2a9-5e0bc55f09f7",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

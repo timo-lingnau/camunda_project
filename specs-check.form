@@ -1,0 +1,44 @@
+{
+  "components": [
+    {
+      "text": "# Text",
+      "type": "text",
+      "id": "Field_19fm057"
+    },
+    {
+      "values": [
+        {
+          "label": "Specifications sufficient",
+          "value": "ok"
+        },
+        {
+          "label": "Specifications need clarification",
+          "value": "not ok"
+        }
+      ],
+      "label": "Please read specifications and examine them",
+      "type": "select",
+      "id": "Field_1o3qgri",
+      "key": "specs_check",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Google Document Link",
+      "type": "textfield",
+      "id": "Field_14bhpfh",
+      "key": "doc_link",
+      "properties": {}
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_ec166f80-2159-44f3-a6b7-7ab62e52fa3b",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}
